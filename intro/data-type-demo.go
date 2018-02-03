@@ -44,9 +44,9 @@ func main() {
 	email = "john@gmail.com"
 	age = 27
 
-	fmt.Println(name)
-	fmt.Println(email)
-	fmt.Println(age)
+	fmt.Println("value of name = ", name)
+	fmt.Println("value of email = ", email)
+	fmt.Println("value of age = ", age)
 
 	//define var with vals
 	var (
@@ -56,4 +56,5 @@ func main() {
 
 	fmt.Println("value of location = ", location)
 	fmt.Println("value of time = ", time)
+
 }
