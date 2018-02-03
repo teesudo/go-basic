@@ -1,7 +1,10 @@
-package main 
+package main
 
 import "fmt"
 
+/* 
+	this file is to display how to define vars.
+*/
 func main() {
 	//vars declare
 	var str string
